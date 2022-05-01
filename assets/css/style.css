@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo1{
+    width: 86px;
+    height: 25px;
+}
+
+.logo2{
+    width: 82px;
+    height: 24px;
+}
+
+.precio a{
+    text-decoration: none;
+}
